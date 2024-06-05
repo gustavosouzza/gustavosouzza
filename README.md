@@ -19,6 +19,7 @@ I am versatile and easily adapt to different roles (Full Stack Web Developer ğŸŒ
 
 <br>
 
+
 ### ğŸ“Š Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
@@ -26,8 +27,6 @@ I am versatile and easily adapt to different roles (Full Stack Web Developer ğŸŒ
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
-
-<br>
 
 <br>
 
