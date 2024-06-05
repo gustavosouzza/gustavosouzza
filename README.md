@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Gustavo! Computer science student.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Computer Science at PUC
 </p>
 
 <!-- Dropdown -->
