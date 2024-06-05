@@ -8,7 +8,7 @@ I am versatile and easily adapt to different roles (Full Stack Web Developer ğŸŒ
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gxstavoqy/gxstavoqy/main/techstack.gif" width="360px"/>
   
 ### ğŸ§ More About Me:
 
