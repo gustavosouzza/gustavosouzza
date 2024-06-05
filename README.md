@@ -4,7 +4,7 @@
 
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am versatile and easily adapt to different roles (Full Stack Web Developer 🌐, App Developer) depending on what the project requires. I love exploring new technologies 💻 and taking advantage of them to create cool things🛠️. 
 <br/>
 <br/>
 
