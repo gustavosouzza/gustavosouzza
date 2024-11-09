@@ -4,7 +4,7 @@
 
 
 
-I am versatile and easily adapt to different roles (Full Stack Web Developer 🌐, App Developer) depending on what the project requires. I love exploring new technologies 💻 and taking advantage of them to create cool things🛠️. 
+I am versatile and easily adapt to different roles, depending on what the project requires. I love exploring new technologies 💻 and taking advantage of them to create cool things🛠️. 
 <br/>
 <br/>
 
