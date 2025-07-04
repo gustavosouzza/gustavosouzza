@@ -23,14 +23,13 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <p align="center">
-  <img alt="Java"      src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Spring"    src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="SQL"       src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Postgres"  src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Git"       src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub"    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="VS Code"   src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="JSON"      src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img alt="Java"      src="./images/java-original.svg" />
+  <img alt="Spring"    src="./images/spring.svg" />
+  <img alt="Mysql"     src="./images/mysql.svg" />
+  <img alt="Postgres"  src="./images/postgresql.svg" />
+  <img alt="Git"       src="./images/git-original.svg" />
+  <img alt="GitHub"    src="./images/github.svg" />
+  <img alt="VS Code"   src="./images/vscode.png" />
 </p>
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
