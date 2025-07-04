@@ -23,13 +23,13 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <p align="center">
-  <img alt="Java"      src="./images/java-original.svg" />
-  <img alt="Spring"    src="./images/spring.svg" />
-  <img alt="Mysql"     src="./images/mysql.svg" />
-  <img alt="Postgres"  src="./images/postgresql.svg" />
-  <img alt="Git"       src="./images/git-original.svg" />
-  <img alt="GitHub"    src="./images/github.svg" />
-  <img alt="VS Code"   src="./images/vscode.png" />
+  <img alt="Java"    height = "25"  src="./images/java-original.svg"  />
+  <img alt="Spring"  height = "25"   src="./images/spring.svg" />
+  <img alt="Mysql"    height = "25"  src="./images/mysql.svg" />
+  <img alt="Postgres" height = "25"  src="./images/postgresql.svg" />
+  <img alt="Git"      height = "25"  src="./images/git-original.svg" />
+  <img alt="GitHub"   height = "25"  src="./images/github.svg" />
+  <img alt="VS Code"  height = "25"  src="./images/vscode.png" />
 </p>
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
