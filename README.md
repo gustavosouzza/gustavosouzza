@@ -14,7 +14,7 @@
   🔬 Computer Science course at <strong>Pontifical Catholic University of Goias</strong><br>
   💻 Back‑End developer passionate about writing code and learning new technologies<br>
   📚 Currently studying how to build APIs with Java and Spring<br>
-  💬 Feel‑ feel free to exchange ideas or ask questions!<br>
+  💬 Feel free to exchange ideas or ask questions!<br>
   📫 Contact: <a href="mailto:dev.contatogustavo@gmail.com">dev.contatogustavo@gmail.com</a>
 </p>
 
