@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Gustavo+Souza...;Nice+to+meet+you!&center=true&size=30">
@@ -7,11 +5,9 @@
 </h1>
 
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/gustavosouzza/" title="LinkedIn"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" /> LinkedIn</a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/guhhzwq/" title="Instagram"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" /> Instagram</a>
+  <a href="https://www.linkedin.com/in/gustavosouzza/" title="LinkedIn"><img width="22" src="/images/linkedin.svg" /> LinkedIn</a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/guhhzwq/" title="Instagram"><img width="22" src="/images/instagram.svg" /> Instagram</a>
 </h5>
-
-
 
 <p align="center">
   Hello, I am <strong>Gustavo Souza</strong>, Computer Science student<br><br>
@@ -37,7 +33,6 @@
   <img alt="JSON"      src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-
 <h2 align="center">🚀 Projetos em Destaque</h2>
 
 <p align="center">
@@ -53,4 +48,3 @@
 <p align="center">
   <a href="https://github.com/gxstavoqy?tab=repositories" title="Mais projetos">🔎 View all projects</a>
 </p>
-
