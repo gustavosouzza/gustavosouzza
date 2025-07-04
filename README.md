@@ -23,15 +23,15 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
 <p align="center">
-  <img alt="JS"  height = "25"   src="./images/javascript.svg" />
-  <img alt="C"  height = "25"   src="./images/c.svg" />
-  <img alt="Java"    height = "25"  src="./images/java-original.svg"  />
-  <img alt="Spring"  height = "25"   src="./images/spring.svg" />
-  <img alt="Mysql"    height = "25"  src="./images/mysql.svg" />
-  <img alt="Postgres" height = "25"  src="./images/postgresql.svg" />
-  <img alt="Git"      height = "25"  src="./images/git-original.svg" />
-  <img alt="GitHub"   height = "25"  src="./images/github.svg" />
-  <img alt="VS Code"  height = "25"  src="./images/vscode.png" />
+  <img alt="JS"   src="./images/javascript.svg" width="40" />
+  <img alt="C"  src="./images/c.svg" width="40"  />
+  <img alt="Java"    src="./images/java-original.svg" width="40"  />
+  <img alt="Spring"  src="./images/spring.svg"  width="40" />
+  <img alt="Mysql"     src="./images/mysql.svg" width="40" />
+  <img alt="Postgres" src="./images/postgresql.svg" width="40" />
+  <img alt="Git"       src="./images/git-original.svg" width="40" />
+  <img alt="GitHub"  src="./images/github.svg"  width="40" />
+  <img alt="VS Code"    src="./images/vscode.png" width="40" />
 </p>
 
 <h2 align="center">🚀 Projetos em Destaque</h2>
