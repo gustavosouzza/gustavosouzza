@@ -25,7 +25,7 @@
 <p align="center">
   <img alt="JS"  height = "25"   src="./images/javascript.svg" />
   <img alt="C"  height = "25"   src="./images/c.svg" />
-  <img alt="Java"    height = "25"  src="./images/java-original.svg"  />
+  <img alt="Java"    height = "24"  src="./images/java-original.svg"  />
   <img alt="Spring"  height = "25"   src="./images/spring.svg" />
   <img alt="Mysql"    height = "25"  src="./images/mysql.svg" />
   <img alt="Postgres" height = "25"  src="./images/postgresql.svg" />
