@@ -39,10 +39,10 @@
 <p align="center">
   
   <a href="https://github.com/gustavosouzza/UserRegistrationAPI" title="Projeto 1">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxstavoqy&repo=UserRegistrationAPI&theme=react&border_radius=10&cache_seconds=1800" height="115" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavosouzza&repo=UserRegistrationAPI&theme=react&border_radius=10&cache_seconds=1800" height="115" />
   </a>
   <a href="https://github.com/gustavosouzza/mini_sistema" title="Projeto 2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gxstavoqy&repo=mini_sistema&theme=react&border_radius=10&cache_seconds=1800" height="115" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavosouzza&repo=mini_sistema&theme=react&border_radius=10&cache_seconds=1800" height="115" />
   </a>
 </p>
 
